@@ -1,0 +1,17 @@
+[
+{
+    "hostname": "jn-master",
+    "host": "172.16.1.54",
+    "port": 9009
+},
+{
+    "hostname": "rsp-co",
+    "host": "172.16.0.1",
+    "port": 9009
+},
+{
+    "hostname": "jn-ia",
+    "host": "172.16.1.70",
+    "port": 9009
+}
+]
